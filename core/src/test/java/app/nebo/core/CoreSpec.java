@@ -71,6 +71,13 @@ public final class CoreSpec {
         reject(() -> p.sample(1, 2, 3, 101), "invalid loss rejected");
     }
     static void qualitySelection() {
+        StreamQuality hd60=StreamQuality.fromId("STANDARD60");
+        check(hd60!=StreamQuality.AUTO, "720p60 is selectable by a stable saved name");
+        check(hd60.initial.width==1280&&hd60.initial.height==720&&hd60.initial.fps==60,
+                "720p60 reaches capture and encoder bounds");
+        check(hd60.initial.bitrate==6_000_000, "720p60 has a dedicated bitrate budget");
+        check(StreamQuality.STANDARD.initial.fps==30&&StreamQuality.STANDARD.initial.bitrate==4_000_000,
+                "existing 720p30 settings remain unchanged");
         check(StreamQuality.fromId(null)==StreamQuality.AUTO, "missing preference defaults to auto");
         check(StreamQuality.fromId("unknown")==StreamQuality.AUTO, "unknown preference defaults to auto");
         for(StreamQuality q:StreamQuality.values()) {

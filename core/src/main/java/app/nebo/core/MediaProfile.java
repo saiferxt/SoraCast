@@ -2,7 +2,7 @@ package app.nebo.core;
 
 /** Capture bounds are rotated with the source; no upscaling or forced 16:9. */
 public enum MediaProfile {
-    LIGHT(960, 540, 24, 2_000_000), BALANCED(1280, 720, 30, 4_000_000),
+    LIGHT(960, 540, 24, 2_000_000), BALANCED(1280, 720, 30, 4_000_000), HD_60(1280, 720, 60, 6_000_000),
     FULL_HD(1920, 1080, 30, 8_000_000), SMOOTH(1920, 1080, 60, 12_000_000),
     QUAD_HD(2560, 1440, 30, 14_000_000), QUAD_HD_60(2560, 1440, 60, 22_000_000);
     public final int width, height, fps, bitrate;

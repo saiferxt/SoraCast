@@ -5,6 +5,7 @@ public enum StreamQuality {
     AUTO("Авто", "Подстраивается под вашу сеть и телевизор", MediaProfile.BALANCED),
     ECONOMY("Экономный", "До 540p · 24 кадр/с · для слабых устройств", MediaProfile.LIGHT),
     STANDARD("720p", "До 30 кадр/с · 4 Мбит/с", MediaProfile.BALANCED),
+    STANDARD60("720p / 60", "До 60 кадр/с · 6 Мбит/с", MediaProfile.HD_60),
     CLEAR("1080p", "До 30 кадр/с · 8 Мбит/с", MediaProfile.FULL_HD),
     SMOOTH("1080p / 60", "До 60 кадр/с · 12 Мбит/с · выше нагрузка", MediaProfile.SMOOTH),
     QHD("2K / 30", "До 1440p · 30 кадр/с · 14 Мбит/с", MediaProfile.QUAD_HD),
