@@ -1,0 +1,14 @@
+plugins { id 'com.android.library' }
+android {
+    namespace 'app.gptcast'
+    compileSdk 35
+    defaultConfig { minSdk 26 }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+    sourceSets.main.java.srcDirs += ['../../core/src/main/java']
+    sourceSets.test.java.srcDirs += ['../../core/src/test/java']
+}
+dependencies {
+    api project(':runtime')
+    api 'com.google.zxing:core:3.5.3'
+    testImplementation 'junit:junit:4.13.2'
+}

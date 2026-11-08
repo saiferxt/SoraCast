@@ -1,0 +1,11 @@
+<resources>
+    <style name="GptTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#167CBC</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#EBF7FF</item>
+        <item name="android:navigationBarColor">#EBF7FF</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#EBF7FF</item>
+    </style>
+</resources>

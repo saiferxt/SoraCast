@@ -1,0 +1,10 @@
+**/build/
+**/.gradle/
+**/local.properties
+*.apk
+*.part
+*.p12
+*.jks
+*.keystore
+.env
+android/runtime/src/main/jniLibs/

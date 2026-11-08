@@ -1,0 +1,242 @@
+[
+  {
+    "id": "boringssl",
+    "url": "https://boringssl.googlesource.com/boringssl/+/f91f1447397c6719f9774dfb8e67329378e1f3d3/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "libsrtp",
+    "url": "https://chromium.googlesource.com/chromium/deps/libsrtp/+/cd5d177bf1fde755ddb4c7f0d9ff7693f8b49e5e/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "libvpx",
+    "url": "https://chromium.googlesource.com/webm/libvpx/+/31af37b1bd2774d11a932c1cd9a3849328375f64/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "libyuv",
+    "url": "https://chromium.googlesource.com/libyuv/libyuv/+/de63bd90f4396313f864ad58b65279e7894451a9/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "opus",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/opus/src/COPYING?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "abseil",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/abseil-cpp/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "pffft",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/pffft/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "rnnoise",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/rnnoise/COPYING?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "jpeg",
+    "url": "https://chromium.googlesource.com/chromium/deps/libjpeg_turbo/+/640f254ad0fa03f6b1f29f89b7dd9366f2f6e533/LICENSE.md?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "aom",
+    "url": "https://aomedia.googlesource.com/aom/+/c213343c8d32bcae729fe09fcba16e1f371cb23b/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "crc32c",
+    "url": "https://chromium.googlesource.com/external/github.com/google/crc32c/+/d3d60ac6e0f16780bcfcc825385e1d338801a558/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "cpufeatures",
+    "url": "https://chromium.googlesource.com/external/github.com/google/cpu_features/+/d3b2440fcfc25fe8e6d0d4a85f06d68e98312f5b/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "compiler-rt",
+    "url": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/compiler-rt/+/b7f9fa6b211b362d3ca07ab2043419ebaf75d1d0/LICENSE.TXT?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "libcxx",
+    "url": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxx/+/5abc7f839700f0f17338434e1c1c6a8c87c00c11/LICENSE.TXT?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "libcxxabi",
+    "url": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxxabi/+/8f11bb1d4438d0239d0dfc1bd9456a9f31629dda/LICENSE.TXT?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "libunwind",
+    "url": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libunwind/+/d6c7a21e978f0adaa43accaad53bc64f0b64f6ec/LICENSE.TXT?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "llvm-libc",
+    "url": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libc/+/be95a36286a288c9437f5ed991720ccece1a6391/LICENSE.TXT?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "zlib",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/zlib/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "jsoncpp",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/jsoncpp/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "protobuf",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/protobuf/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "dav1d",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/dav1d/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "jni-zero",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/jni_zero/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "base64",
+    "url": "https://webrtc.googlesource.com/src/+/1f975dfd761af6e5d76d28333191973b258d82a8/rtc_base/third_party/base64/LICENSE?format=TEXT",
+    "status": 404
+  },
+  {
+    "id": "portaudio",
+    "url": "https://webrtc.googlesource.com/src/+/1f975dfd761af6e5d76d28333191973b258d82a8/modules/third_party/portaudio/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "fft",
+    "url": "https://webrtc.googlesource.com/src/+/1f975dfd761af6e5d76d28333191973b258d82a8/modules/third_party/fft/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "g711",
+    "url": "https://webrtc.googlesource.com/src/+/1f975dfd761af6e5d76d28333191973b258d82a8/modules/third_party/g711/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "g722",
+    "url": "https://webrtc.googlesource.com/src/+/1f975dfd761af6e5d76d28333191973b258d82a8/modules/third_party/g722/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "ooura",
+    "url": "https://webrtc.googlesource.com/src/+/1f975dfd761af6e5d76d28333191973b258d82a8/common_audio/third_party/ooura/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "spl-sqrt-floor",
+    "url": "https://webrtc.googlesource.com/src/+/1f975dfd761af6e5d76d28333191973b258d82a8/common_audio/third_party/spl_sqrt_floor/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "fiat",
+    "url": "https://boringssl.googlesource.com/boringssl/+/f91f1447397c6719f9774dfb8e67329378e1f3d3/third_party/fiat/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "perfetto",
+    "url": "https://chromium.googlesource.com/external/github.com/google/perfetto/+/82ad4b69cbaf64e26c639061b1712756a9cc5e20/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "nasm",
+    "url": "https://chromium.googlesource.com/chromium/deps/nasm/+/525a09a813be0f75b646ee93fc2a31c27b87d722/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "android-sdk",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/android_sdk/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "kotlin-stdlib",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/kotlin_stdlib/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "webrtc",
+    "url": "https://webrtc.googlesource.com/src/+/1f975dfd761af6e5d76d28333191973b258d82a8/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "patents",
+    "url": "https://webrtc.googlesource.com/src/+/1f975dfd761af6e5d76d28333191973b258d82a8/PATENTS?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "authors",
+    "url": "https://webrtc.googlesource.com/src/+/1f975dfd761af6e5d76d28333191973b258d82a8/AUTHORS?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "jpeg-ijg",
+    "url": "https://chromium.googlesource.com/chromium/deps/libjpeg_turbo/+/640f254ad0fa03f6b1f29f89b7dd9366f2f6e533/README.ijg?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "auto-service",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/android_deps/libs/com_google_auto_service_auto_service/LICENSE?format=TEXT",
+    "status": 404
+  },
+  {
+    "id": "errorprone",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/android_deps/libs/com_google_errorprone_error_prone_core/LICENSE?format=TEXT",
+    "status": 404
+  },
+  {
+    "id": "guava",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/android_deps/libs/com_google_guava_guava/LICENSE?format=TEXT",
+    "status": 404
+  },
+  {
+    "id": "ijar",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/ijar/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "protobuf-javascript",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/protobuf-javascript/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "android-support-annotations",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/android_deps/libs/com_android_support_support_annotations/LICENSE?format=TEXT",
+    "status": 404
+  },
+  {
+    "id": "android-buildtools",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/android_build_tools/bundletool/LICENSE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "android-toolchain",
+    "url": "https://chromium.googlesource.com/chromium/src/third_party/+/7c92732938de0ef7e28f5da231994723f938f407/android_toolchain/NOTICE?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "aom-patents",
+    "url": "https://aomedia.googlesource.com/aom/+/c213343c8d32bcae729fe09fcba16e1f371cb23b/PATENTS?format=TEXT",
+    "status": 200
+  },
+  {
+    "id": "base64-historical",
+    "url": "https://webrtc.googlesource.com/src/+/b55015e4e1aa2cc326b39a2e807fa4228dbe81d1/rtc_base/third_party/base64/LICENSE?format=TEXT",
+    "status": 200
+  }
+]
